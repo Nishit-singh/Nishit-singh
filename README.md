@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Nish an ISE + AI Undergrad 🚀 
+# 👋 Hey there! I'm Nish — an ISE + AI Undergrad 🚀 
 
 🎓 **3rd Year Undergraduate**  
 🏫 **Presidency University**  
@@ -19,15 +19,23 @@ Currently learning, experimenting, and leveling up one commit at a time!
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
-- ☕ **Java**
-- 🐍 **Python**
-- 🌐 **HTML | CSS | PHP**
+### 💻 Programming Languages & Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
+</p>
 
 ### 🧰 Tools & Other Skills
-- 🎨 **Canva**
-- 📊 **Excel**
-- 🧑‍💻 **VS Code, Git & GitHub**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="45" />
+</p>
 
 ---
 
