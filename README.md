@@ -51,7 +51,7 @@ Currently learning, experimenting, and leveling up one commit at a time!
 Let’s connect and grow together 🌱  
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://in.linkedin.com/in/nishit-singh-a766832b9" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
