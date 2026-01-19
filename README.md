@@ -50,8 +50,15 @@ Currently learning, experimenting, and leveling up one commit at a time!
 
 Let’s connect and grow together 🌱  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ID)
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL_ID">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" height="45" />
+  </a>
+</p>
 
 ---
 
