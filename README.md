@@ -1,8 +1,8 @@
-# 👋 Hey there! I'm Nish — an ISE + AI Undergrad 🚀 
+# 👋 Hey there! I'm Nish — an IST + AI Undergrad 🚀 
 
 🎓 **3rd Year Undergraduate**  
 🏫 **Presidency University**  
-💡 **Information Science & Engineering (with AI)**  
+💡 **Information Science & Technology (with AI)**  
 
 I love turning **ideas into code**, exploring **AI concepts**, and building things that (mostly) work on the first try 😄  
 Currently learning, experimenting, and leveling up one commit at a time!
